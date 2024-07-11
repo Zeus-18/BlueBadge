@@ -1,4 +1,4 @@
-# The-Blue-Badge
+# Blue-Badge
 
 
 ## Introduction
@@ -28,11 +28,6 @@ The project comprises the following key components:
 - Speech Recognition
 - Android App Integration
 
-## Individual Contributions
-
-- **Mohd Mohsin Khan (20BAI10340)**
-    - Distance Detection: Implemented and fine-tuned the distance estimation algorithm.
-    - Speech Recognition: Researched and integrated the 'pyttsx3' package for text-to-speech conversion.
 
 ## Installation
 
